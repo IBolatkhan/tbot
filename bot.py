@@ -48,7 +48,7 @@ variants.one_time_keyboard = True
 variants.row('Yes')
 variants.row('No')
 
-bot = telebot.TeleBot("758117330:AAF34JB0f2hctp7v9NxlLmBpaPi79C98mqo")
+bot = telebot.TeleBot("779871724:AAEshdKO5M-y0epMwFGxItEYzf5DYUl8CME")
 
 user_dict = {}
 
