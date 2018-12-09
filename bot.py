@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn import linear_model
 from sklearn.preprocessing import Imputer
 
-gmaps = googlemaps.Client(key='779871724:AAEshdKO5M-y0epMwFGxItEYzf5DYUl8CME')
+gmaps = googlemaps.Client(key='AIzaSyCGnL4NC9Cgu_oSMtLJ8GKJJtqC6JiVCd0')
 
 rooms = types.ReplyKeyboardMarkup()
 rooms.one_time_keyboard = True
